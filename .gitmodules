@@ -1,3 +1,6 @@
 [submodule "{{cookiecutter.project_slug}}/frontend"]
 	path = {{cookiecutter.project_slug}}/frontend
 	url = git@github.com:candaleadrian/full-stack-fastapi-mongodb-frontend.git
+[submodule "{{cookiecutter.project_slug}}/backend"]
+	path = {{cookiecutter.project_slug}}/backend
+	url = git@github.com:candaleadrian/full-stack-fastapi-mongodb-backend.git
